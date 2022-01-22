@@ -13,8 +13,8 @@
     <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Nick-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
-  <img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96148819/150657694-f16a1925-4723-455e-8e92-1cb7830be741.gif">
+<img align="center" alt="Nick-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
+    <img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96148819/150657694-f16a1925-4723-455e-8e92-1cb7830be741.gif">
 </div>
   
   ##
@@ -25,4 +25,3 @@
   
   </div>
   
-  ![Snake animation](https://github.com/nicolelopes25/nicolelopes25/blob/output/github-contribution-grid-snake.svg)
