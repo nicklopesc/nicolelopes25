@@ -1,7 +1,7 @@
 ### Oiiie!! Eu sou a Nicole Lopes
 
 - 🔭 Atualmente procuro vaga de emprego como Front-end Jr.
-- 🌱 Estou aprofundando em HTML|CSS|JavaScript|Bootsrap|React. E estou aprendendo NodeJS.
+- 🌱 Estou aprofundando conhecimentos em HTML| CSS| JavaScript| React.
 - 😄 Pronouns: ela/dela
 
 <div align="center">
