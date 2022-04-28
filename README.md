@@ -1,9 +1,5 @@
 ### Oiiie!! Eu sou a Nicole Lopes
 
-- 🔭 Atualmente procuro vaga de emprego como Front-end Jr.
-- 🌱 Estou aprofundando conhecimentos em HTML| CSS| JavaScript| React.
-- 😄 Pronouns: ela/dela
-
 <div align="center">
     <a href="https://github.com/nicolelopes25">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolelopes25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
